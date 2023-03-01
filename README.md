@@ -8,4 +8,4 @@
 
 <h4>HTML5, CSS3 and Advanced animation technologies</h4>
 
-<h4>[shoes.gif](https://github.com/kuralkubilay/Shoe-Website/blob/main/shoes.gif)</h4>
+<h4>[shoes.gif]</h4>
