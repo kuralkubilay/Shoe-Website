@@ -8,6 +8,6 @@
 
 <h4>HTML5, CSS3 and Advanced animation technologies</h4>
 
-<h3>Gif link</h3>
+<h3>Gif </h3>
 
-<h4>(https://github.com/kuralkubilay/Shoe-Website/blob/main/shoes.gif)</h4>
+![banner resmi](shoes.gif)
