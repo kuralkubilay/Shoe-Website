@@ -8,6 +8,5 @@
 
 <h4>HTML5, CSS3 and Advanced animation technologies</h4>
 
-<h3>Gif </h3>
 
 ![banner resmi](shoes.gif)
